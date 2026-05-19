@@ -1,0 +1,6 @@
+{
+  "name": "Jack -- 3D Creator",
+  "description": "Portfolio landing page for Jack, an exceptional 3D artist and digital creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
